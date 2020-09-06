@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGitRepository", "AGitRepository\AGitRepository.csproj", "{90D09E2A-B106-486F-993E-95A8E7A9F830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D09E2A-B106-486F-993E-95A8E7A9F830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D09E2A-B106-486F-993E-95A8E7A9F830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D09E2A-B106-486F-993E-95A8E7A9F830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D09E2A-B106-486F-993E-95A8E7A9F830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A301A439-024E-40DA-BB46-375A1600F521}
+	EndGlobalSection
+EndGlobal
